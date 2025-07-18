@@ -1,2 +1,4 @@
 graphviz
 pytest
+matplotlib
+scikit-learn
