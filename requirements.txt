@@ -2,3 +2,4 @@ graphviz
 pytest
 matplotlib
 scikit-learn
+numpy

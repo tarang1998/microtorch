@@ -5,7 +5,7 @@ DEBUG = False  # Set to True to enable debug logs
 
 class Value:
 
-    def __init__(self, data, _children=(), _operation='', label=''):
+    def __init__(self, data : float, _children=(), _operation='', label=''):
         self.data = data
         self._children = _children
         self._operation = _operation
